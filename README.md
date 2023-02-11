@@ -1,6 +1,9 @@
 # 💫 About Me:
 🔭I'm currently working on MERN based web projects.<br>🤝I'm looking to collaborate on open source web projects.<br>👀I'm looking to help with app development.<br>🌱I'm currently learning Flutter and NextJS.<br>
 
+<img align="right" alt="coding" width="400" src="https://giphy.com/embed/AFdcYElkoNAUE">
+
+<iframe align="right" src="https://giphy.com/embed/AFdcYElkoNAUE" width="480" height="272" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cute-pokemon-AFdcYElkoNAUE">via GIPHY</a></p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agrawal.prerit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prerit-agrawal-3a1013231) 
